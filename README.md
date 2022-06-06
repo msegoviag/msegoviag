@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @msegoviag
+- 👋 Hi, I’m @msegoviag, I love coding mobile apps and train powerlifting 🏋🏻
 - 👀 I’m interested in Mobile Development, Swift, Java, Kotlin.
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI.
 - 📫 How to reach me: miguelsegovia21@gmail.com
 
 <!---
