@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AFK Killer / AFK Guardian**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** and **Flutter**
 
 - 💬 Ask me about **Android, iOS, Python, Java, Sports...**
 
