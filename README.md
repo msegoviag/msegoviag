@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android, iOS, Python, Java, Sports...**
 
-- 📫 How to reach me **miguelsegovia21@gmail.com**
+- 📫 How to reach me: **miguelsegovia21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
