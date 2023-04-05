@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Miguel Segovia I love coding apps 💻 and train powerlifting 🏋🏻</h1>
+<h1 align="center">Hi 👋, I'm Miguel Segovia I love coding apps 💻 and Powerlifting training 🏋🏻</h1>
 <h3 align="center">I am passionate about cybersecurity, pentesting and cross-platform development.</h3>
 
-- 🔭 I’m currently working on **AFK Guardian**
+- 🔭 I’m currently working on **AFK Guardian Framework**
 
 - 🌱 I’m currently learning **SwiftUI** and **Flutter**
 
-- 💬 Ask me about **Android, iOS, Python, Java, Sports...**
+- 💬 Ask me about **Cibersecurity, Python, Java, Sports...**
 
 - 📫 How to reach me: **miguelsegovia21@gmail.com**
 
