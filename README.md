@@ -3,7 +3,7 @@
 
 - 🔭 I was a programmer but now I am working as a **Professional pentester**.
 
-- 🥷In my spare time I dedicate my time to bug bounty and vulnerability research in open source software, I have reported vulnerabilities to **Nasa, Apache, OpenAI, among others**.
+- 🥷In my spare time I dedicate my time to bug bounty and vulnerability research in open source software, I have reported vulnerabilities to **NASA, Apache, OpenAI, among others**.
 
 - 💬 Ask me about **Cibersecurity, Python, Java, Powerlifting...**
 
