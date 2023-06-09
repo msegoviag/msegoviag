@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Segovia I love coding apps 💻 and Powerlifting training 🏋🏻</h1>
+<h1 align="center">Hi 👋, I'm Miguel Segovia I love Web hacking 💻🥷 and Powerlifting training 🏋🏻</h1>
 <h3 align="center">I am passionate about cybersecurity, pentesting and cross-platform development.</h3>
 
 - 🔭 I am working as a **Professional pentester**
