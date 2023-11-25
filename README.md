@@ -3,7 +3,24 @@
 
 - 🔭 I was a programmer but now I am working as a **Professional pentester**.
 
-- 🥷In my spare time I dedicate my time to bug bounty and vulnerability research in open source software, I have reported vulnerabilities to **NASA, Apache, OpenAI, among others**.
+- 🥷In my spare time I dedicate my time to bug bounty and vulnerability research in open source software, I have reported vulnerabilities to **NASA, Apache, Plone, OpenAI, among others**.
+
+- 🕵️ My CVEs:
+
+  - CVE-2023-41048
+  - CVE-2023-39264
+  - CVE-2023-34110
+  - CVE-2023-36387
+  - CVE-2023-34944
+  - CVE-2023-31799
+  - CVE-2023-31800
+  - CVE-2023-31801
+  - CVE-2023-31802
+  - CVE-2023-31803
+  - CVE-2023-31804
+  - CVE-2023-31805
+  - CVE-2023-31806
+  - CVE-2023-31807
 
 - 💬 Ask me about **Cibersecurity, Python, Java, Powerlifting...**
 
