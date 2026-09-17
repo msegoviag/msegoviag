@@ -27,7 +27,7 @@
 
 - 💬 Ask me about *Cibersecurity, Python, Java, Powerlifting...*
 
-- 📫 How to reach me: *miguelsegovia21(at)gmail(dot)com**
+- 📫 How to reach me: *miguelsegovia21(at)gmail(dot)com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
