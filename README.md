@@ -25,7 +25,7 @@
   - CVE-2023-31806
   - CVE-2023-31807
 
-- 💬 Ask me about **Cibersecurity, Python, Java, Powerlifting...**
+- 💬 Ask me about *Cibersecurity, Python, Java, Powerlifting...*
 
 - 📫 How to reach me: *miguelsegovia21(at)gmail(dot)com**
 
